@@ -17,7 +17,7 @@
 - Uploaded curated CSV files to Azure Databricks
 - Created two sandbox tables:
   - `odi_summary`: match-level structured data
-  - `stadium`: cleaned stadium and location mapping 
+  - `stadiums`: cleaned stadium and location mapping 
 
 ### 4. **SQL Analysis in Databricks Notebooks**
 - Wrote SQL queries to analyze:
