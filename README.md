@@ -42,3 +42,12 @@
 - **Azure Databricks**: Sandbox tables, notebook workflows
 - **Power BI**: Dynamic dashboards, drill-throughs, DAX , slicers
 
+---
+## 📁 Files Description
+- **`odi_data_extract.py`** – Python script to download, extract, and clean ODI match data from Cricsheet.
+- **`odi_summary.csv`** – Cleaned match-level data generated from the extraction script.
+- **`stadiums.csv`** – Stadium-to-city and country mapping for location analysis.
+- **`ODI Summary Analysis.py`** – SQL notebook used in Azure Databricks for match analysis.
+- **`ODI Dashboard.pbix`** – Power BI dashboard file containing all interactive visuals.
+ 
+
